@@ -21,7 +21,7 @@
     <li>Creator of the discord bot <a href="https://discord.pixbot.me">PixBot</a></li>
   <ul>
   <br>
-  <div align="center>
+  <div align="center">
     <a href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw"><img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <a href="https://discord.pixbot.me"><img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://github.com/DorvakOff"><img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> 
