@@ -3,12 +3,12 @@
 <h3 align = "center"><strong>Java / Web developer</h3>
   
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw?sub_confirmation=1">
+    <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCuTEVRhah73_4nKg9tssNlw&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&style=for-the-badge&color=red&labelColor=ce4630&label=Subscribers"/></a> 
-    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <a target="_blank" href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
       <img alt="youtube views" title="YouTube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCuTEVRhah73_4nKg9tssNlw&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   <a href="https://discord.pixbot.me" alt="Find me on discord">
-    <img src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+    <img target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
 
@@ -18,14 +18,14 @@
   <ul>
     <li>Self learning since the beginning </li>
     <li>Learning IT in France 🇫🇷</li>
-    <li>Creator of the discord bot <a href="https://discord.pixbot.me">PixBot</a></li>
+    <li>Creator of the discord bot <a target="_blank" href="https://pixbot.me">PixBot</a></li>
   <ul>
   <br>
   <div align="center">
-    <a href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw"><img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a href="https://discord.pixbot.me"><img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://github.com/DorvakOff"><img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-    <a href="https://twitch.tv/Dorvak_"><img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/></a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw"><img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a target="_blank" href="https://discord.pixbot.me"><img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a target="_blank" href="https://github.com/DorvakOff"><img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+    <a target="_blank" href="https://twitch.tv/Dorvak_"><img align="top" alt="twitch" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/></a>
   </div>
 </div>
 
@@ -45,23 +45,7 @@
 
 <p align="center">
   <br/>
-    <img alt="LawOff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DorvakOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Dorvak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DorvakOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img alt="Dorvak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 </p>
-
-
-<!--
-**DorvakOff/DorvakOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
