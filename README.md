@@ -49,3 +49,13 @@
   <img alt="Dorvak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 </p>
+
+## History
+    
+<p align="center">
+  <ul>
+    <li><a target="_blank" href="https://sphaleria.fr">Sphaleria</a> - 6 Months</li>
+    <li><a target="_blank" href="https://www.erazion.com/">Erazion</a> - 1 Mission</li>
+    <li><a target="_blank" href="https://smeltblock.com/">SmeltBlock</a> - March 2021 → January 2022</li>
+  </ul>
+</p>
