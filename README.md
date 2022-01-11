@@ -18,7 +18,7 @@
   <ul>
     <li>Self learning since the beginning </li>
     <li>Learning IT in France 🇫🇷</li>
-    <li>Creator of the discord bot <a target="_blank" href="https://pixbot.me">PixBot</a></li>
+    <li>Creator of the discord bot <a target="_blank" href="https://github.com/DorvakOff/Pixbot-Languages">PixBot</a></li>
   <ul>
   <br>
   <div align="center">
