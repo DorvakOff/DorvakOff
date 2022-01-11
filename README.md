@@ -57,5 +57,6 @@
     <li><a target="_blank" href="https://sphaleria.fr">Sphaleria</a> - 6 Months</li>
     <li><a target="_blank" href="https://www.erazion.com/">Erazion</a> - 1 Mission</li>
     <li><a target="_blank" href="https://smeltblock.com/">SmeltBlock</a> - March 2021 → January 2022</li>
+    <li><a target="_blank" href="https://fr.adp.com/">ADP France</a> - 9 August → Now</li>
   </ul>
 </p>
