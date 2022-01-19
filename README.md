@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35></h1>
 
 <h3 align = "center"><strong>Java / Web developer</h3>
-  
+
 <p align="center">
     <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCuTEVRhah73_4nKg9tssNlw&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&style=for-the-badge&color=red&labelColor=ce4630&label=Subscribers"/></a> 
@@ -9,17 +9,16 @@
       <img alt="youtube views" title="YouTube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCuTEVRhah73_4nKg9tssNlw&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   <a href="https://discord.pixbot.me" alt="Find me on discord">
     <img target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
-  </p>
 </p>
 
 
 <div align = left width = 50%>
-  <h2 style="font-size:30px"><b>👩‍💻 About ME <b></h2>
+  <h2 style="font-size:30px"><b>👩‍💻 About ME </b></h2>
   <ul>
     <li>Self learning since the beginning </li>
     <li>Learning IT in France 🇫🇷</li>
     <li>Creator of the discord bot <a target="_blank" href="https://github.com/DorvakOff/Pixbot-Languages">PixBot</a></li>
-  <ul>
+  </ul>
   <br>
   <div align="center">
     <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw"><img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -41,6 +40,10 @@
   <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"><img src="https://img.shields.io/badge/Intellij-330000?&style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ" /> </a>
 <br>
 
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## 📊 My Github Stats
 
 <p align="center">
@@ -51,7 +54,7 @@
 </p>
 
 ## History
-    
+
 <p align="center">
   <ul>
     <li><a target="_blank" href="https://sphaleria.fr">Sphaleria</a> - 6 Months</li>
