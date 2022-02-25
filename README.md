@@ -17,7 +17,7 @@
   <ul>
     <li>Self learning since the beginning </li>
     <li>Learning IT in France 🇫🇷</li>
-    <li>Creator of the discord bot <a target="_blank" href="https://github.com/DorvakOff/Pixbot-Languages">PixBot</a></li>
+    <li>Creator of the discord bot <a target="_blank" href="https://pixbot.me">PixBot</a></li>
   </ul>
   <br>
   <div align="center">
@@ -64,6 +64,6 @@
     <li><a target="_blank" href="https://www.erazion.com/">Erazion</a> - 1 Mission</li>
     <li><a target="_blank" href="https://smeltblock.com/">SmeltBlock</a> - March 2021 → January 2022</li>
     <li><a target="_blank" href="https://fr.adp.com/">ADP France</a> - 9 August 2021 → Now</li>
-    <li><a target="_blank" href="https://mineofwar.com/">Mine Of War</a> - 17 January 2022 → Now</li>
+    <li><a target="_blank" href="https://mineofwar.com/">Mine Of War</a> - 17 January 2022 → 25 February 2022</li>
   </ul>
 </div>
