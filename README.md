@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35></h1>
+<h1 align="center"> Hi there 👋</h1>
 
 <h1 align="center">Java / Web developer</h1>
 
@@ -18,6 +18,7 @@
     <li>Self learning since the beginning </li>
     <li>Learning IT in France 🇫🇷</li>
     <li>Creator of the discord bot <a target="_blank" href="https://pixbot.me">PixBot</a></li>
+      <li>My website: <a target="_blank" href="https://dorvak.com">dorvak.com</a></li>
   </ul>
   <br>
   <div align="center">
