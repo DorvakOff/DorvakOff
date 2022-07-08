@@ -58,7 +58,7 @@
     <li><a target="_blank" href="https://sphaleria.fr">Sphaleria</a> - 6 Months</li>
     <li><a target="_blank" href="https://www.erazion.com/">Erazion</a> - 1 Mission</li>
     <li><a target="_blank" href="https://smeltblock.com/">SmeltBlock</a> - March 2021 → January 2022</li>
-    <li><a target="_blank" href="https://fr.adp.com/">ADP France</a> - 9 August 2021 → Now</li>
+    <li><a target="_blank" href="https://adp.com/">ADP (Automatic Data Processing)</a> - 9 August 2021 → Now</li>
     <li><a target="_blank" href="https://mineofwar.com/">Mine Of War</a> - 17 January 2022 → 25 February 2022</li>
   </ul>
 </div>
