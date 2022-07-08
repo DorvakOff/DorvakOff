@@ -42,20 +42,14 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-383838?&style=for-the-badge&logo=Docker&logoColor=blue" alt="Docker" /></a>
 <br>
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<details>
-    <summary>📊 My Github Stats</summary>
+<div>
+    <h2>📊 My Github Stats</h2>
     <p align="center">
       <br/>
-        <img alt="Dorvak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DorvakOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
         <img alt="Dorvak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
         <br/>
     </p>
-</details>
+</div>
 
 ## History
 
@@ -68,3 +62,9 @@
     <li><a target="_blank" href="https://mineofwar.com/">Mine Of War</a> - 17 January 2022 → 25 February 2022</li>
   </ul>
 </div>
+
+
+<h2>📺 Latest YouTube Videos</h2>
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
