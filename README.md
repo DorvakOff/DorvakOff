@@ -11,7 +11,6 @@
     <img target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-
 <div align = left width = 50%>
   <h2 ><b>👩‍💻 About ME </b></h2>
   <ul>
@@ -55,14 +54,14 @@
 
 <div align="center">
   <ul style="list-style: none">
-    <li><a target="_blank" href="https://sphaleria.fr">Sphaleria</a> - 6 Months</li>
+    <li><a target="_blank" href="">Sphaleria</a> - 6 Months</li>
     <li><a target="_blank" href="https://www.erazion.com/">Erazion</a> - 1 Mission</li>
     <li><a target="_blank" href="https://smeltblock.com/">SmeltBlock</a> - March 2021 → January 2022</li>
-    <li><a target="_blank" href="https://adp.com/">ADP (Automatic Data Processing)</a> - 9 August 2021 → Now</li>
+    <li><a target="_blank" href="https://adp.com/">ADP (Automatic Data Processing)</a> - 9 August 2021 → <strong>Now</strong></li>
     <li><a target="_blank" href="https://mineofwar.com/">Mine Of War</a> - 17 January 2022 → 25 February 2022</li>
+    <li><a target="_blank" href="https://phoenixnetwork.net/">Galaxy Life</a> - 14 September 2022 → <strong>Now</strong></li>
   </ul>
 </div>
-
 
 <h2>📺 Latest YouTube Videos</h2>
 
