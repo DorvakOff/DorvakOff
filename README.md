@@ -4,9 +4,9 @@
 
 <p align="center">
     <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCuTEVRhah73_4nKg9tssNlw&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&style=for-the-badge&color=red&labelColor=ce4630&label=Subscribers"/></a> 
-    <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw">
-      <img alt="youtube views" title="YouTube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCuTEVRhah73_4nKg9tssNlw&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCuTEVRhah73_4nKg9tssNlw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=ff0000&color=e26161"/></a> 
+    <a target="_blank" href="https://twitch.tv/Dorvak_">
+      <img alt="Twitch channel" title="YouTube views" src="https://img.shields.io/twitch/status/dorvak_?logo=twitch&style=for-the-badge&color=9147ff&labelColor=7022e5&logoColor=white"/></a>
   <a href="https://discord.pixbot.me" alt="Find me on discord">
     <img target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
@@ -45,7 +45,8 @@
     <h2>📊 My Github Stats</h2>
     <p align="center">
       <br/>
-        <img alt="Dorvak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorvakOff&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8&count_private=true" />
+        <img align="center" alt="Dorvak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true" />
         <br/>
     </p>
 </div>
