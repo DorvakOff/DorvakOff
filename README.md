@@ -6,9 +6,9 @@
     <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCuTEVRhah73_4nKg9tssNlw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=ff0000&color=e26161"/></a> 
     <a target="_blank" href="https://twitch.tv/Dorvak_">
-      <img alt="Twitch channel" title="YouTube views" src="https://img.shields.io/twitch/status/dorvak_?logo=twitch&style=for-the-badge&color=9147ff&labelColor=7022e5&logoColor=white"/></a>
-  <a href="https://discord.pixbot.me" alt="Find me on discord">
-    <img target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+      <img alt="Twitch channel" title="Click to go to my twitch channel" src="https://img.shields.io/twitch/status/dorvak_?logo=twitch&style=for-the-badge&color=9147ff&labelColor=7022e5&logoColor=white"/></a>
+  <a href="https://discord.pixbot.me">
+    <img alt="discord server" title="Find me on discord" target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 <div align = left width = 50%>
