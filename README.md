@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Self learning since the beginning<br>- Learning IT in France 🇫🇷<br>- Creator of the discord bot PixBot<br>- My website: dorvak.com
+- Self learning since the beginning
+- Learning IT in France 🇫🇷
+- Creator of the discord bot [PixBot](https://pixbot.me)
+- My website: [dorvak.com](https://dorvak.com)
 
 
 ## 🌐 Socials:
