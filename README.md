@@ -1,70 +1,24 @@
-<h1 align="center"> Hi there 👋</h1>
+# 💫 About Me:
+- Self learning since the beginning<br>- Learning IT in France 🇫🇷<br>- Creator of the discord bot PixBot<br>- My website: dorvak.com
 
-<h1 align="center">Java / Web developer</h1>
 
-<p align="center">
-    <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCuTEVRhah73_4nKg9tssNlw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=ff0000&color=e26161"/></a> 
-    <a target="_blank" href="https://twitch.tv/Dorvak_">
-      <img alt="Twitch channel" title="Click to go to my twitch channel" src="https://img.shields.io/twitch/status/dorvak_?logo=twitch&style=for-the-badge&color=9147ff&labelColor=7022e5&logoColor=white"/></a>
-  <a href="https://discord.pixbot.me">
-    <img alt="discord server" title="Find me on discord" target="_blank" src="https://img.shields.io/discord/781174618178060310?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/UWMZ2gp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matéo-papaïx-704640252) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dorvak_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Dorvak_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Dorvak_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Dorvak_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCuTEVRhah73_4nKg9tssNlw) 
 
-<div align = left width = 50%>
-  <h2 ><b>👩‍💻 About ME </b></h2>
-  <ul>
-    <li>Self learning since the beginning </li>
-    <li>Learning IT in France 🇫🇷</li>
-    <li>Creator of the discord bot <a target="_blank" href="https://pixbot.me">PixBot</a></li>
-      <li>My website: <a target="_blank" href="https://dorvak.com">dorvak.com</a></li>
-  </ul>
-  <br>
-  <div align="center">
-    <a target="_blank" href="https://www.youtube.com/channel/UCuTEVRhah73_4nKg9tssNlw"><img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a target="_blank" href="https://discord.pixbot.me"><img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a target="_blank" href="https://github.com/DorvakOff"><img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-    <a target="_blank" href="https://twitch.tv/Dorvak_"><img align="top" alt="twitch" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/></a>
-  </div>
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DorvakOff&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DorvakOff&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align ="left" width = 100%>Tools and Technologies</h2>
-<p align="left">
-  <a href="https://www.oracle.com/fr/index.html" target="_blank"><img src="https://img.shields.io/badge/Java-3A3632?style=for-the-badge&logo=java&logoColor=orange" alt="java" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
- alt="css3"  /></a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /></a>
-  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-FFD43B?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs"  /></a>
-  <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"><img src="https://img.shields.io/badge/Intellij-330000?&style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-383838?&style=for-the-badge&logo=Docker&logoColor=blue" alt="Docker" /></a>
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div>
-    <h2>📊 My Github Stats</h2>
-    <p align="center">
-      <br/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorvakOff&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8&count_private=true" />
-        <img align="center" alt="Dorvak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorvakOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true" />
-        <br/>
-    </p>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=DorvakOff&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-## History
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mateopapaix) 
 
-<div align="center">
-  <ul style="list-style: none">
-    <li><a target="_blank" href="">Sphaleria</a> - 6 Months</li>
-    <li><a target="_blank" href="https://www.erazion.com/">Erazion</a> - 1 Mission</li>
-    <li><a target="_blank" href="https://smeltblock.com/">SmeltBlock</a> - March 2021 → January 2022</li>
-    <li><a target="_blank" href="https://adp.com/">ADP (Automatic Data Processing)</a> - 9 August 2021 → <strong>Now</strong></li>
-    <li><a target="_blank" href="https://mineofwar.com/">Mine Of War</a> - 17 January 2022 → 25 February 2022</li>
-    <li><a target="_blank" href="https://phoenixnetwork.net/">Galaxy Life</a> - 14 September 2022 → <strong>Now</strong></li>
-  </ul>
-</div>
-
-<h2>📺 Latest YouTube Videos</h2>
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+ 
