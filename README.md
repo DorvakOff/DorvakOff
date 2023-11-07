@@ -1,7 +1,7 @@
 # 💫 About Me:
 - Self learning since the beginning
 - Learning IT in France 🇫🇷
-- Creator of the discord bot [PixBot](https://pixbot.me)
+- Creator of the discord bot [PixBot](https://github.com/ThePixTeam)
 - Creator of my own [Watchlist](https://github.com/DorvakOff/Spring-Angular-Watchlist)
 - My website: [dorvak.com](https://dorvak.com)
 
